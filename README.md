@@ -1,5 +1,5 @@
 # ice-blocks
-An open source game engine created to enhance the game developemnt industry.
+An open source game engine created to enhance the game development industry.
 
 ## How to get started?
 
